@@ -32,6 +32,8 @@ En el diagrama de clases vienen dibujadas las líneas que representan las asocia
                 
                  git@github.com:albertolara83/torneo_UML.git
 
+  	LOS DIAGRAMAS ESTÁN HECHOS CON LA APLICACIÓN STAR.UML
+
 
 
 
